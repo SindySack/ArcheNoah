@@ -1,0 +1,17 @@
+Pferd;Axel;m;150;100
+Maus;Mila;w;20;25
+Tiger;Marta;w;200;60
+Einhorn;Lila;w;150;100
+Pferd;Matra;w;150;100
+Spinne;Paul;m;15;5
+Hase;Elias;m;50;60
+Kuh;Berta;w;200;200
+Zebra;Master;m;150;80
+Nilpferd;Emma;w;250;250
+Krokodil;Mia;w;150;210
+Maus;Leonie;w;20;25
+Spinne;Spohie;w;15;5
+Kuh;Brumbo;m;200;200
+Hase;Lina;w;50;60
+Nilpferd;Jonas;m;250;250
+Krokodil;Luca;m;150;210
